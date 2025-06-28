@@ -10,7 +10,7 @@ def connect_to_postgres():
         # parametros de conexion
         connection_params = {
             'host': 'localhost',
-            'database': 'taller4',
+            'database': 'postgres',
             'user': 'postgres',
             'password': 'postgres',
             'port': 5432

@@ -17,6 +17,15 @@
             "name": "taller4",
             "database": "taller4",
             "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "prueba2",
+            "database": "prueba2",
+            "username": "postgres"
         }
     ],
     "dbmlERDPreviewer.preferredTheme": "dark"
